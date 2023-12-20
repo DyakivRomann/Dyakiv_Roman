@@ -8,7 +8,7 @@ int main(int argc, char* argv[])
 	setlocale(LC_ALL, "Ukrainian");
 	float x;
 	unsigned int k;
-	cout << "Програма-конверт" << endl;
+	cout << "Програма-конверт !" << endl;
 	cout << "Введiть значення кута" << endl;
 	cin >> x;
 	cout << "Оберiть пункт меню" << endl;
